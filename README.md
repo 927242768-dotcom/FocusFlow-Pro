@@ -1,6 +1,7 @@
 # 🍅 FocusFlow Pro (专注流)
 
 FocusFlow Pro 是一款基于 Python 和 CustomTkinter 开发的现代化桌面番茄钟任务管理软件。它结合了任务清单、番茄工作法计时器和数据复盘功能，旨在帮助用户在快节奏的工作中保持专注。
+下面是软件界面：
 
 ![软件截图](https://github.com/927242768-dotcom/FocusFlow-Pro/blob/main/assets/Screenshot%202026-02-06%20140057.png?raw=true)
 
