@@ -1,0 +1,16 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 打包产生的文件
+build/
+dist/
+*.spec
+
+# 用户数据和配置 (绝对不能传)
+tasks_data.json
+app_config.json
+
+# IDE 配置文件 (如果你用PyCharm或VSCode)
+.idea/
+.vscode/
