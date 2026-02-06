@@ -23,8 +23,8 @@ FocusFlow Pro 是一款基于 Python 和 CustomTkinter 开发的现代化桌面�
 如果你想查看源码或在本地运行 Python 版本，请按照以下步骤操作：
 
 1. 克隆仓库
-```bash
-git clone [https://github.com/你的用户名/FocusFlow-Pro.git](https://github.com/你的用户名/FocusFlow-Pro.git)
+Bash
+git clone [https://github.com/927242768-dotcom/FocusFlow-Pro.git](https://github.com/你的用户名/FocusFlow-Pro.git)
 cd FocusFlow-Pro
 2. 安装依赖
 请确保你的电脑已安装 Python 3.8+。
